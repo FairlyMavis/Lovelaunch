@@ -23,3 +23,6 @@ rootProject.name = "OceanPlayground"
 include(":app")
 include(":messengerdemoclient")
 include(":messengerdemoservice")
+//include(":wsclient")
+//include(":wsserver")
+include(":simplecast")

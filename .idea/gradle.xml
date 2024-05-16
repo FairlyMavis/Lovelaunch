@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/messengerdemoclient" />
             <option value="$PROJECT_DIR$/messengerdemoservice" />
+            <option value="$PROJECT_DIR$/simplecast" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
